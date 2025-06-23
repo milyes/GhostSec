@@ -1,0 +1,1 @@
+function validateForm() { /* Validation JS ici */ return true; }
